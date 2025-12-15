@@ -10,8 +10,8 @@ width = 3
 area = length * width
 perimeter = 2 * (length + width)
 
-print('\nLength:' + length + ' cm')
-print('\nWidth:' + width + ' cm')
-print('\n\nArea:' + area + ' 15 cm^2')
-print('\nPerimeter:' + perimeter + ' 16cm')
-print('\n\nDone.')
+print("\nLength:" + length + " cm")
+print("\nWidth:" + width + " cm")
+print("\n\nArea:" + area + " 15 cm^2")
+print("\nPerimeter:" + perimeter + " 16cm")
+print("\n\nDone.")
